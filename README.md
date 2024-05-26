@@ -1,4 +1,4 @@
-# Retrieval-Augmented Generation (RAG) for Contextualized Responses
+# Retrieval-Augmented Generation (RAG) for Contextualized Responses 🤖
 
 ## Overview
 
