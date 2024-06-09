@@ -21,7 +21,7 @@ To get started with our RAG system, follow these installation steps:
 
 ```bash
 git clone https://github.com/zamalali/Agentive-RAG.git
-cd RAG-Project
+cd Agentive-RAG
 python3 -m venv rag_env
 source rag_env/bin/activate
 pip install -r requirements.txt
