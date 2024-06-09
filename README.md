@@ -20,7 +20,7 @@ Our RAG system combines the robust document retrieval capabilities of Pinecone w
 To get started with our RAG system, follow these installation steps:
 
 ```bash
-git clone https://github.com/yourusername/RAG-Project.git
+git clone https://github.com/zamalali/Agentive-RAG.git
 cd RAG-Project
 python3 -m venv rag_env
 source rag_env/bin/activate
